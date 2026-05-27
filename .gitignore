@@ -1,0 +1,20 @@
+backup/
+lib/
+
+# === Ejecutables ===
+*.exe
+*.out
+*.app
+
+# === Archivos binarios y de compilación ===
+*.o
+*.ppu
+*.ppu.bak
+*.ow
+
+# === Archivos temporales y de configuración del IDE ===
+*.bak
+*.fps
+*.dsk
+*.cfg
+*.~*
